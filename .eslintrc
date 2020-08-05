@@ -8,10 +8,15 @@
   "rules": {
     "semi": "off",
     "arrow-parens": "off",
-    "linebreak-style": "warn",
+    "comma-dangle": "off",
+    "linebreak-style": "off",
     "indent": "off",
     "require-jsdoc": "off",
-    "eol-last": "off"
+    "eol-last": "off",
+    "quotes": "off",
+    "operator-linebreak": "off",
+    "no-trailing-spaces": "off",
+    "max-len": "off"
   },
   "extends": [
     "eslint:recommended",
